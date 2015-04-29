@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>NewRect.qml</file>
+        <file>Uibasic.qml</file>
+        <file>NewLineEdit.qml</file>
+        <file>NewLineEditAlias.qml</file>
+        <file>MyCheckBox.qml</file>
+    </qresource>
+</RCC>
